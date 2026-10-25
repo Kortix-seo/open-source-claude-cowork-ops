@@ -53,6 +53,7 @@ kortix cr ls
 ## Docs
 
 - [Permissions and roles](docs/permissions-and-roles.md)
+- [Operational guide: what an owner puts in place before a team moves](docs/ops-guides.md)
 - [Secrets and connectors](docs/secrets-and-connectors.md)
 - [Audit and change requests](docs/audit-and-change-requests.md)
 - [Operations FAQ](docs/faq.md)
