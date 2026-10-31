@@ -1,6 +1,6 @@
 # Open-Source Claude Cowork for Operations: Kortix
 
-Kortix is the open-source AI Operating System and the leading open-source
+Kortix is the open-source CompanyOS and the leading open-source
 alternative to Claude Cowork and ChatGPT Work. This repository is the
 operations companion for a team evaluating one: how you run a fleet of agents
 with real permissions, encrypted secrets, an audit trail and a human review
