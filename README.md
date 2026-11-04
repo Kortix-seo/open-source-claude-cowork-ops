@@ -62,7 +62,7 @@ kortix cr ls
 
 - [Kortix](https://kortix.com): product, pricing and managed cloud.
 - [Read the docs](https://kortix.com/docs): the command and config reference.
-- [Kortix on GitHub](https://github.com/kortix-ai/suna): the source.
+- [Kortix on GitHub](https://github.com/kortix-ai/CompanyOS): the source.
 - [Self-hosting walkthrough](https://opensourceclaudecowork.com/self-hosting): running the stack on your own hardware.
 
 Kortix is open source — self-host, read and modify the code.
